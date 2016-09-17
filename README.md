@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+I like c#, blender3d, game development and rogue.
